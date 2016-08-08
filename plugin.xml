@@ -76,7 +76,7 @@
         <source-file src="src/android/CameraActivity.java" target-dir="src/org/apache/cordova/camera" />
         <source-file src="src/android/CameraPreview.java" target-dir="src/org/apache/cordova/camera" />
         <source-file src="src/android/FakeR.java" target-dir="src/org/apache/cordova/camera" />
-        <source-file src="src/android/res/layout/stopmotion_activity_camera.xml" target-dir="res/layout"/>
+        <source-file src="src/android/res/layout/activity_camera.xml" target-dir="res/layout"/>
 
 
         <js-module src="www/CameraPopoverHandle.js" name="CameraPopoverHandle">
